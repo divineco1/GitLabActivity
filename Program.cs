@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿Console.WriteLine("Git Lab Activity\nVS Code");
+Console.WriteLine("Name: Divine Reshelle A. Co");
+Console.WriteLine("Section: BSCS 2-5");
